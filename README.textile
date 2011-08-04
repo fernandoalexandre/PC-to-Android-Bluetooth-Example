@@ -1,0 +1,9 @@
+h1. Bluetooth Communication Example
+
+This project had the sole requirement to communicate between an Computer and an Android device using the Bluetooth technology. One way communication only PC Client -> Android Server.
+
+The PC client uses the BlueCove Framework as to take advantage of the portability Java provides.
+
+This example was tested in OSX and Android device LG-P500 (Optimus One).
+
+The code is licensed as MIT (as presented in all source code files).
