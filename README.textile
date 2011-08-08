@@ -1,6 +1,6 @@
 h1. Bluetooth Communication Example
 
-This project had the sole requirement to communicate between an Computer and an Android device using the Bluetooth technology. One way communication only PC Client -> Android Server.
+This project had the sole requirement to communicate between an Computer and an Android device using the Bluetooth technology. One way communication only PC Client -> Android Serverq.
 
 The PC client uses the BlueCove Framework as to take advantage of the portability Java provides.
 
